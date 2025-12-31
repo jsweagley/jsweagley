@@ -1,6 +1,6 @@
-Hi there! 👋 I'm James Weagley, Ph.D.
+Hi there! I'm James Weagley, Ph.D.
 
-🧬 Computational Biologist | Multi-Omics Expert | Bioinformatics Lead
+Computational Biologist | Multi-Omics Expert | Bioinformatics Lead
 
 I'm a Computational Biologist living in Minnesota, currently working as a Postdoctoral Associate at Washington University. I specialize in integrating multi-omics data, bacterial and viral metagenomics, and statistical modeling to uncover mechanisms of health and disease.
 
